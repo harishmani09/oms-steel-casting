@@ -21,9 +21,17 @@ export default function Contact() {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    // In a real deployment, connect to a form backend (e.g. Netlify Forms, Formspree)
+    const body = new URLSearchParams({
+      "form-name": "contact",
+      ...form,
+    }).toString();
+    await fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body,
+    });
     setSubmitted(true);
   };
 
