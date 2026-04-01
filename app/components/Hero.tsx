@@ -43,7 +43,7 @@ export default function Hero() {
             OMS{" "}
             <span className="text-orange-500">Steel</span>
             <br />
-            Casting
+            Castings
           </h1>
 
           <p className="text-xl sm:text-2xl text-gray-300 font-light mb-4">
