@@ -87,7 +87,7 @@ export default function Contact() {
                     <p className="text-gray-400 text-sm leading-relaxed">
                       Shakuntala Palace, Behind M.P. Complex
                       <br />
-                      Shere Punjab, Dimna Basti Road
+                      Shere Punjab, Dindli Basti Road
                       <br />
                       Adityapur – 831013
                       <br />

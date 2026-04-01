@@ -8,9 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "OMS Steel Casting | Precision Casting Solutions for Heavy Industries",
+  title: "OMS Steel Castings | Precision Casting Solutions for Heavy Industries",
   description:
-    "OMS Steel Casting — Jamshedpur-based steel foundry manufacturing high-quality wear-resistant castings for steel plants, cement plants, thermal power, sugar mills, and mining industries.",
+    "OMS Steel Castings — Jamshedpur-based steel foundry manufacturing high-quality wear-resistant castings for steel plants, cement plants, thermal power, sugar mills, and mining industries.",
   keywords:
     "steel casting, wear resistant castings, blow bars, grinding media, jaw plates, liners, Jamshedpur, Adityapur",
 };

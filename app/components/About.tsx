@@ -10,7 +10,7 @@ export default function About() {
             <div className="relative rounded-lg overflow-hidden">
               <img
                 src="/images/about-foundry.jpg"
-                alt="OMS Steel Casting foundry operations"
+                alt="OMS Steel Castings foundry operations"
                 className="w-full h-80 lg:h-[420px] object-cover"
                 onError={(e) => {
                   (e.target as HTMLImageElement).src =
@@ -31,7 +31,7 @@ export default function About() {
           {/* Text side */}
           <div>
             <p className="text-orange-500 text-sm font-semibold uppercase tracking-widest mb-3">
-              About OMS Steel Casting
+              About OMS Steel Castings
             </p>
             <h2 className="text-3xl lg:text-4xl font-black text-white mb-6 leading-tight">
               Built on Industrial{" "}
@@ -39,7 +39,7 @@ export default function About() {
               Durability
             </h2>
             <p className="text-gray-400 leading-relaxed mb-5">
-              OMS Steel Casting is a Jamshedpur-based steel foundry located in
+              OMS Steel Castings is a Jamshedpur-based steel foundry located in
               Adityapur, established to support the ongoing maintenance and
               critical operational requirements of heavy industries across India.
             </p>

@@ -47,7 +47,7 @@ export default function Navbar() {
             </div>
             <div className="hidden sm:block">
               <p className="font-bold text-white text-sm leading-tight">
-                OMS Steel Casting
+                OMS Steel Castings
               </p>
               <p className="text-orange-400 text-xs">Adityapur, Jamshedpur</p>
             </div>

@@ -33,7 +33,7 @@ export default function Footer() {
                 OMS
               </div>
               <div>
-                <p className="font-bold text-white text-sm">OMS Steel Casting</p>
+                <p className="font-bold text-white text-sm">OMS Steel Castings</p>
                 <p className="text-orange-400 text-xs">Jamshedpur</p>
               </div>
             </div>
@@ -81,7 +81,7 @@ export default function Footer() {
               <li>
                 Shakuntala Palace, Behind M.P. Complex,
                 <br />
-                Shere Punjab, Dimna Basti Road,
+                Shere Punjab, Dindli Basti Road,
                 <br />
                 Adityapur – 831013, Jharkhand
               </li>
@@ -117,7 +117,7 @@ export default function Footer() {
       <div className="border-t border-zinc-800 py-5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2">
           <p className="text-gray-600 text-xs">
-            © {new Date().getFullYear()} OMS Steel Casting. All rights reserved.
+            © {new Date().getFullYear()} OMS Steel Castings. All rights reserved.
           </p>
           <p className="text-gray-700 text-xs">
             Adityapur Industrial Area, Jamshedpur, Jharkhand, India
